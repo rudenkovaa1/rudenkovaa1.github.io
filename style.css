@@ -250,7 +250,7 @@ button{
 }
 .block1-text{
     display: block;
-    max-width: 34%;
+    max-width: 70%;
 }
 #a2{
     font-family: 'Lato';
@@ -1040,10 +1040,10 @@ form select{
         margin-bottom: 6%;
     }
     .sec-5 {
-        min-height: 365px;
+        min-height: auto;
     }
     .flex-end {
-        height: 290px;
+        height: auto;
     }
     #a15 {
         margin-top: 5%;
@@ -1092,7 +1092,7 @@ form select{
         margin: 0 auto;
     }
     .block1-text {
-        max-width: 50%;
+        max-width: 70%;
     }
 
 }
@@ -1146,9 +1146,6 @@ form select{
     .ff1, .ff2, .ff3, .ff4 {
         display: none;
     }
-    #a20 {
-        padding-top: 50%;
-    }
     .flex-form {
         flex-wrap: wrap;
     }
@@ -1173,7 +1170,7 @@ form select{
         width: auto;
     }
     #a20 {
-        padding-top: 0;
+        padding-top: 15%;
         font-size: 22px;
     }
     
@@ -1223,5 +1220,10 @@ form select{
     }
     form select {
         margin: 2%;
+    }
+    .img1, .img2, .img3, .img4 {
+        width: 150px;
+        height: 120px;
+        margin: 0 auto;
     }
 }
