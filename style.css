@@ -250,7 +250,7 @@ button{
 }
 .block1-text{
     display: block;
-    max-width: 70%;
+    max-width: 50%;
 }
 #a2{
     font-family: 'Lato';
@@ -953,6 +953,9 @@ form select{
     }
     #a14 {
         width: 415px;
+    }
+    .block1-text{
+        max-width: 75%;
     }
 }
 @media(max-width: 1060px){
